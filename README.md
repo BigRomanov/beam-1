@@ -28,6 +28,8 @@ Read the [Contribution Guide](https://github.com/BeamMW/beam/wiki/Contribution-G
 
 ### GET STARTED
 
+zxasdfsaddsadsa
+
 
 Get Beam binaries here: http://beam.mw/downloads
 
